@@ -34,15 +34,16 @@ This project takes any Reddit user profile URL and generates a detailed **User P
 ## 📁 Folder Structure
 
 reddit-user-persona/
-├── reddit_persona.py
-├── kojied_raw.txt
-├── kojied.txt
-├── Hungry-Move-6603.txt
-├── Hungry-Move-6603_raw.txt      
-├── .env.example               
-├── README.md
-└── requirements.txt
+├── reddit_persona.py                # Main script to run
+├── kojied_raw.txt                   # Raw scraped data for user "kojied"
+├── kojied.txt                       # Final persona output for user "kojied"
+├── Hungry-Move-6603_raw.txt        # Raw scraped data for user "Hungry-Move-6603"
+├── Hungry-Move-6603.txt            # Final persona output for user "Hungry-Move-6603"
+├── .env.example                     # Template for environment variables (no secrets!)
+├── requirements.txt                # All Python dependencies
+└── README.md                       # Project instructions and setup guide
 
+---
 
 ## 🔐 Setup Instructions
 
@@ -51,43 +52,47 @@ reddit-user-persona/
     git clone https://github.com/your-username/reddit-user-persona.git
     cd reddit-user-persona
 
-2. Install dependencies
-3. 
-   pip install -r requirements.txt
+2. Install dependencies -- pip install -r requirements.txt
 
-4. Create a .env file
+3. Create a .env file
    Create a .env file in the project root folder and add your keys like this:
 
-REDDIT_CLIENT_ID=your_reddit_app_client_id
-REDDIT_CLIENT_SECRET=your_reddit_app_secret
-GROQ_API_KEY=your_groq_api_key
+   REDDIT_CLIENT_ID=your_reddit_app_client_id
+   
+   REDDIT_CLIENT_SECRET=your_reddit_app_secret
+   
+   GROQ_API_KEY=your_groq_api_key
+   
 🔑 You can create your Reddit API keys at https://www.reddit.com/prefs/apps
+
 🔑 You can get Groq keys at https://console.groq.com
+
+---
 
 🧠 How to Run
 
-python reddit_persona.py
+> python reddit_persona.py
 
-When prompted:
+# When prompted:
 
-Enter Reddit profile URL:
+> Enter Reddit profile URL:
 
 https://www.reddit.com/user/kojied/
 ✅ It will:
 
-Scrape the user’s posts/comments
+> Scrape the user’s posts/comments
 
-Generate a structured persona
+> Generate a structured persona
 
-Save the results to:
+> Save the results to:
 
-kojied_raw.txt
+   kojied_raw.txt
 
-kojied.txt
+   kojied.txt
 
 🧪 Output Example
 
-Username: kojied
+> Username: kojied
 
 Estimated Age: Late 20s to early 30s
 > "As a matter of fact, there are a bunch of people..."
@@ -99,16 +104,22 @@ Interests: Technology, AR, Pokémon Go
 > "I think Pokemon could be one of the killer use cases..."
 ✅ Each quote is cited to support the trait.
 
+---
+
 📦 Requirements
-Minimal required packages:
+# Minimal required packages:
 
-openai==1.95.1
-praw==7.8.1
-python-dotenv==1.1.1
+> openai==1.95.1
 
-Installed using:
+> praw==7.8.1
 
-pip install -r requirements.txt
+> python-dotenv==1.1.1
+
+# Installed using:
+
+> pip install -r requirements.txt
+
+---
 
 👤 Examples Supported
 You can use:
@@ -119,21 +130,25 @@ https://www.reddit.com/user/Hungry-Move-6603/
 
 Or any valid Reddit user profile URL
 
+---
+
 📜 License
 
 MIT License — you may reuse this project with credit.
 
+---
 
 🙋‍♂️ Author
 
 Made by Suraj Agarwal
 If selected, I am happy to contribute this and build further features!
 
+---
 
 🧠 Notes
 
-This project uses Groq LLaMA-3 API via the openai Python SDK (pointing to Groq's endpoint).
+> This project uses Groq LLaMA-3 API via the openai Python SDK (pointing to Groq's endpoint).
 
-Output matches persona structure shown in example image (traits, citations, tone, etc.)
+> Output matches persona structure shown in example image (traits, citations, tone, etc.)
 
-Output files are saved per user and not overwritten.
+> Output files are saved per user and not overwritten.
