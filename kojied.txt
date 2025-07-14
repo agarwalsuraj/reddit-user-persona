@@ -1,0 +1,33 @@
+Username: kojied
+
+Here is the detailed user persona for u/kojied:
+
+---
+
+**Username:** koiied
+**Estimated Age:** Late 20s to early 30s
+**Occupation or Education:** iOS developer (VisionOS) and possibly pursuing higher education (referenced in a post about resources to learn about spatial computing)
+**Location Clues:** New York City (mentioned in a post about the city's nightlife and his own temporary residence)
+**Hobbies and Interests:** Technology, spatial computing, AR, gaming, music, and dance
+**Personality Traits:** Adventurous, open-minded, and willing to adapt to new situations, but also values his own independence and has strong opinions
+**Communication Style:** Conversational and engaging, with a mix of humor and seriousness
+**Goals and Motivations:** To stay ahead in the tech industry, build a better life in the US, and explore new opportunities and technologies
+**Pain Points / Frustrations:** Feeling out of place in social situations, difficulty adapting to new technologies, and frustration with inconsistencies in technology and life
+**Technology Habits:** Active user of iOS devices, interested in spatial computing and AR, and likely uses cloud-based services for work and personal projects
+**Communities They Engage In:** Reddit, possibly other online communities and social media platforms related to technology and gaming
+**Overall Insight (Archetype):** The "Tech-Savvy Adventurer" - a person who is always looking for new experiences, technologies, and ways to stay ahead in their career and personal life.
+
+### 🔍 Supporting Quotes for Each Section
+
+* **Username:** Not applicable
+* **Estimated Age:** Not mentioned directly, but from the content, it's estimated to be in the late 20s to early 30s.
+* **Occupation or Education:** "I'm an iOS developer building in VisionOS" and "Hey I'm an iOS developer building in visionOS" (posts about resources to learn about spatial computing)
+* **Location Clues:** "a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance" (post about feeling out of place in a bar)
+* **Hobbies and Interests:** "I think Pokemon could be one of the killer use case for the vision pro" (post about Pokémon Go in AVP), "music and to dance" (post about feeling out of place in a bar), and "spatial tours with 3D map and 360˚ video" (post about spatial computing)
+* **Personality Traits:** "I thought that I must have been hallucinating, but Then a girl pointed at me and referred to me as the old person. That's when I knew I had to get out of there" (post about feeling out of place in a bar), and "I'm also a transient being in the city. They might only be here for three months, but I've only been here for three years as well" (post about feeling out of place in a bar)
+* **Communication Style:** "I just find this to be much easier than doing it on my Mac + display setup. Give it a try" (post about accessing chatGPT with audio input)
+* **Goals and Motivations:** "I'm confident that this will eventually become a thing, but the faster they ship the more AVP adoption we'll see" (post about Pokémon Go in AVP), and "Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (post about resources to learn about spatial computing)
+* **Pain Points / Frustrations:** "I felt like I was at a college basement party" (post about feeling out of place in a bar), and "I already dropped $4k on this device" (post about using the Vision Pro for work)
+* **Technology Habits:** "I'm an iOS developer building in VisionOS" and "Hey I'm an iOS developer building in visionOS" (posts about resources to learn about spatial computing), and "I just find this to be much easier than doing it on my Mac + display setup. Give it a try" (post about accessing chatGPT with audio input)
+* **Communities They Engage In:** Reddit, possibly other online communities and social media platforms related to technology and gaming
+* **Overall Insight (Archetype):** The posts and comments show a strong interest in technology, gaming, and innovation, as well as a willingness to adapt to new situations and try new things.
