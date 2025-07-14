@@ -33,15 +33,18 @@ This project takes any Reddit user profile URL and generates a detailed **User P
 
 ## 📁 Folder Structure
 
+```text
 reddit-user-persona/
-├── reddit_persona.py                # Main script to run
-├── kojied_raw.txt                   # Raw scraped data for user "kojied"
-├── kojied.txt                       # Final persona output for user "kojied"
-├── Hungry-Move-6603_raw.txt        # Raw scraped data for user "Hungry-Move-6603"
-├── Hungry-Move-6603.txt            # Final persona output for user "Hungry-Move-6603"
-├── .env.example                     # Template for environment variables (no secrets!)
-├── requirements.txt                # All Python dependencies
-└── README.md                       # Project instructions and setup guide
+├── reddit_persona.py               # Main script to scrape Reddit & generate persona
+├── kojied_raw.txt                  # Raw scraped Reddit data for user 'kojied'
+├── kojied.txt                      # Final persona output for user 'kojied'
+├── Hungry-Move-6603_raw.txt        # Raw scraped Reddit data for user 'Hungry-Move-6603'
+├── Hungry-Move-6603.txt            # Final persona output for user 'Hungry-Move-6603'
+├── .env.example                    # Example environment variables file (no secrets)
+├── .gitignore                      # Prevents committing sensitive/local files
+├── requirements.txt               # Python dependencies needed to run the project
+└── README.md                      # This file: setup, usage, and project details
+```
 
 ---
 
