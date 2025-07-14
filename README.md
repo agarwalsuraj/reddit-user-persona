@@ -52,9 +52,10 @@ reddit-user-persona/
     cd reddit-user-persona
 
 2. Install dependencies
+3. 
    pip install -r requirements.txt
 
-3. Create a .env file
+4. Create a .env file
    Create a .env file in the project root folder and add your keys like this:
 
 REDDIT_CLIENT_ID=your_reddit_app_client_id
